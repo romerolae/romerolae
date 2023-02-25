@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Luis Romero
-#### I am Full Stack Developer
+#### I am a Full Stack Developer
 As a Junior Full stack Developer, I have experience in utilizing NODE.JS REACT, JAVASRIPT, HTML, and CSS to create dynamic and user-friendly web interfaces. I am eager to continue honing my skills and delivering impactful experiences for end-users.
 
 Skills: NODE JS/ EXPRESS/ REACT / JS / HTML / CSS/GIT
